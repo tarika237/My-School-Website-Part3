@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(9, 196, 253);
+}
+
+h1{
+    color: rgb(173, 73, 73);
+    text-align: center;
+}
+
+h2{
+    color:rgb(60, 13, 75);
+    text-align: center;
+}
+
+.header * {
+    border : thick;
+    border-radius: 2px;
+
+}
+
+.header{
+    background-color: rgb(231, 174, 17);
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .site-description{
+     background-color: blueviolet;
+     display: flex;
+ }
+
+
+
+
+ 
+
